@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=StudentGradeCalculator
+comment1.params=marks\ noOfsubjects
+comment1.target=double\ percentagecalculation(int[],\ int)
+comment2.params=avgpercentage
+comment2.target=char\ gradecalculation(double)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
